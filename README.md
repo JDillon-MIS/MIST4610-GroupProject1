@@ -1,4 +1,4 @@
-# Group B1 Mist 4610 Group Project #1
+# Group B1 MIST4610 Group Project #1
 
 ## Team Name: 
 Section 47114 Group B1
