@@ -15,7 +15,8 @@ Section 47114 Group B1
 
 ## Data Model:
 
-*Insert a PNG image of the model here*
+<img width="1662" height="1100" alt="4610_GP1_Model0" src="https://github.com/user-attachments/assets/075db9a1-427a-4955-9a0e-c2f3a1bae5cb" />
+
 
 Explanation of the Data Model:
 
@@ -33,6 +34,6 @@ Explanation of the Data Model:
 
 ## Database Information:
 
-Database Name: *Insert here what the database is listed as on the my sql server*
+Database Name: mb_B1
 
 Other Information: *All of the queries listed above are bookmarked in the database as stored procedures using the **GP_Qx** format*
