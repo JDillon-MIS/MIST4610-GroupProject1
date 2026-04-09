@@ -5,7 +5,7 @@ Section 47114 Group B1
 
 ## Team Members & Roles:
 1. Jacob Dillon [@JDillon](https://www.github.com/JDillon-MIS) - Group Leader
-2. Jenjen Lin ... - SQL Writer
+2. Jenjen Lin [@JLin](https://github.com/J2Lin) - SQL Writer
 3. Graham Nash [@GNash](https://github.com/grahamenash) - Conceptual Modeler
 4. Ved Cholleti ... - Database Designer/Data Wrangler
 
@@ -17,9 +17,10 @@ For this case, we were tasked with modeling and creating a relational database f
 
 <img width="1910" height="1715" alt="4610_GP1_Model1" src="https://github.com/user-attachments/assets/4b583c41-9b34-4c26-be0d-756891dd44ef" />
 
+<br/> Explanation of Entity Relationship:
 
-Explanation of the Data Model:
-...
+<img width="2002" height="1535" alt="image" src="https://github.com/user-attachments/assets/f9fabdc3-7ee9-424d-afc5-e0b30c6df5fa" />
+
 
 
 ## Data Dictionary:
