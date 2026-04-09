@@ -51,6 +51,40 @@ Explanation of the Data Model:
 
 ## Ten Queries:
 
+Insert Screenshot of matrix here.
+
+1. The condition of equipment items are rated on a scale from 1-4, with 1 being poor and 4 being great. Which equipment items are in poor condition?
+
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f7ae94c5-489f-4855-b258-22716b23ef31" />
+
+Query 1 helps managers easily identify equipment items that will need to be repaired or replaced.
+
+2. Which customers have a sponsor?
+
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/ae9539e0-7c21-4d87-bd65-589b7a1f4466" />
+
+Query 2 helps staff determine which customers qualify for the guest discount.
+
+3. What is the average trip length?
+
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/55f9d507-3a79-4dba-a55e-7bfa1996d5c3" />
+
+Query 3 helps management determine whether the current staffing numbers are sufficient or additional staff needs to be hired for trips.
+
+
+4. What is the name of the staff leader assigned to the scheduled trip with id 3?
+
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/af38dc5e-8103-4ef8-b5f0-079473ec5424" />
+
+Query 4 helps management identify who will be out of the office during the scheduled trip with id 3 so that they won't be assigned to another trip during that time.
+
+
+5. 
+
+...
+
+Query 5 helps...
+
 **WIP** - *For each query, provide: 
       a question & its managerial justification,
       the relevant SQL code & its results, 
