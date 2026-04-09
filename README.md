@@ -19,7 +19,8 @@ For this case, we were tasked with modeling and creating a relational database f
 
 <br/> Explanation of Entity Relationship:
 
-<img width="2002" height="1535" alt="image" src="https://github.com/user-attachments/assets/f9fabdc3-7ee9-424d-afc5-e0b30c6df5fa" />
+<img width="1987" height="1705" alt="image" src="https://github.com/user-attachments/assets/991d9983-3353-44f4-91fc-44848201cb0e" />
+
 
 
 
