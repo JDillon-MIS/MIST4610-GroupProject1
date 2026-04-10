@@ -11,11 +11,12 @@ Section 47114 Group B1
 
 ## Case Description:
 
-For this case, we were tasked with modeling and creating a relational database for the Wilderness Exploration Society (WES) at Peachtree State University (Georgia) to help them manage their equipment rentals and trip registrations in accordance with their relevant procedures. Along with modeling the relational database, generating sample data for it, and populating it with said data we extended the project by adding in the capability to track and apply different deals to the different types of equipment that customers are likely to rent during a given event or holiday. Ultimately, this populated database will permit us to run SQL queries on its data in order to recieve beneficial insights into the past and present activities of WES customers from their recorded equipment rental and trip registration operations with the Wilderness Exploration Society.
+For this case, we were tasked with modeling and creating a relational database for the Wilderness Exploration Society (WES) at Peachtree State University (Georgia) to help them manage their equipment rentals and trip registrations in accordance with their relevant procedures. After modeling the relational database, generating sample data for it, and populating it with said data, this database will allow us to run SQL queries on its data in order to recieve beneficial insights into the past and present activities of WES customers from the recorded equipment rental and trip registration operations within the Wilderness Exploration Society. 
+Since certain pieces of equipment and types of trips will likely be more desirable to customers during specific events and holidays, we decided to extend this project by adding the capability to track and apply deals to the rental prices of various types of equipment and the fees associated with the different types of trips the WES offers. This extension is modeled by our addition of the Deals entity and the associative entities EquipmentTypeDeal and TripTypeDeal.
 
 ## Data Model:
 
-<img width="1910" height="1715" alt="4610_GP1_Model1" src="https://github.com/user-attachments/assets/4b583c41-9b34-4c26-be0d-756891dd44ef" />
+<img width="1515" height="1025" alt="image" src="https://github.com/user-attachments/assets/0c36c922-2df9-41d0-afec-af689506a093" />
 
 <br/> Explanation of Entity Relationship:
 
@@ -67,12 +68,11 @@ Query 1 helps managers easily identify equipment items that will need to be repa
 
 Query 2 helps staff determine which customers qualify for the guest discount.
 
-3. What is the average trip length?
+3. What is the average trip length of all trips that have a difficulty level of "Easy"?
 
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/55f9d507-3a79-4dba-a55e-7bfa1996d5c3" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/bafda13c-68bf-4585-98b2-58045b2c14e2" />
 
-Query 3 helps management determine whether the current staffing numbers are sufficient or additional staff needs to be hired for trips.
-
+Query 3 helps management give customers an idea of how much of a time commitment an easy trip will be.
 
 4. What is the name of the staff leader assigned to the scheduled trip with id 3?
 
@@ -80,17 +80,41 @@ Query 3 helps management determine whether the current staffing numbers are suff
 
 Query 4 helps management identify who will be out of the office during the scheduled trip with id 3 so that they won't be assigned to another trip during that time.
 
+5. Which trip types have the most total sign-ups?
 
-5. 
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/93318b11-6101-4e1b-99de-7ef090c36bae" />
+
+Query 5 both helps management identify which trips are the most popular with customers, and tells them which trips they should focus their advertising on.
+
+6. If qualification for the Loyalty Reward Deal is deemed by participation in 2 or more trips, then which customers would qualify? 
+
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/995fb554-45cb-440c-8e3a-5d813aa4b76c" />
+
+Query 6 helps management both identify which of their customers are eligible for the loyalty reward deal and determine if the number of trips required for said deal should be changed to adjust how many customers are eligible for it.
+
+7. What is the total revenue generated from fees by each trip type?
+
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/5ed883ba-2dc3-4fa9-954c-1179e3d004db" />
+
+Query 7 helps management identify which trip types are thier most profitable so that they can prioritize offering more of them in their future schedules.
+
+8. Which staff members are acting as assistant staff for three or more trips?
+
+<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/49f8c2dd-f6b4-48a8-97d0-9953d683399f" />
+
+Query 8 helps management identify candidates that are due for promotion from staff assistant to staff leader after the trips have concluded.
+
+9. Which deals have a discount amount that is greater than the average discount amount of all deals?
+
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/fe914ff3-21af-4f9c-8373-2503795c16bd" />
+
+Query 9 helps management find unusually generous deals so that they can determine if they are appropriate to keep.
+
+10. Which customers have returned their equipment rentals late more than once?
 
 ...
 
-Query 5 helps...
-
-**WIP** - *For each query, provide: 
-      a question & its managerial justification,
-      the relevant SQL code & its results, 
-      and a matrix indicating which features it covers*
+Query 10 helps management identify their repeatedly late-returning customers so that they can decide if they need to start giving them reminders or adding penalties to their return policy.
 
 
 ## Database Information:
