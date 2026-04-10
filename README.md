@@ -7,7 +7,7 @@ Section 47114 Group B1
 1. Jacob Dillon [@JDillon](https://www.github.com/JDillon-MIS) - Group Leader
 2. Jenjen Lin [@JLin](https://github.com/J2Lin) - SQL Writer
 3. Graham Nash [@GNash](https://github.com/grahamenash) - Conceptual Modeler
-4. Ved Cholleti ... - Database Designer/Data Wrangler
+4. Ved Cholleti [VCholleti](NoAccountProvided) - Database Designer/Data Wrangler
 
 ## Case Description:
 
@@ -51,10 +51,12 @@ Since certain pieces of equipment and types of trips will likely be more desirab
 
 <img width="1230" height="620" alt="GP1_DataDict_12" src="https://github.com/user-attachments/assets/1427f0fc-a919-4ddb-ba1a-33d51472e0d6" />
 
+<img width="1492" height="470" alt="image" src="https://github.com/user-attachments/assets/4c3c2459-7496-405a-80e1-5817c0e2e62c" />
+
 
 ## Ten Queries:
 
-Insert Screenshot of matrix here.
+**Insert Screenshot of matrix here.**
 
 1. The condition of equipment items are rated on a scale from 1-4, with 1 being poor and 4 being great. Which equipment items are in poor condition?
 
