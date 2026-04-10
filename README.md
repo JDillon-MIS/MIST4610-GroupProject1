@@ -110,11 +110,11 @@ Query 8 helps management identify candidates that are due for promotion from sta
 
 Query 9 helps management find unusually generous deals so that they can determine if they are appropriate to keep.
 
-10. Which customers have returned their equipment rentals late more than once?
+10. Which customers have returned their equipment rentals late at least once?
 
-...
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/344a4503-5d70-4e57-8823-64e555f3addc" />
 
-Query 10 helps management identify their repeatedly late-returning customers so that they can decide if they need to start giving them reminders or adding penalties to their return policy.
+Query 10 helps management identify which of their customers are returning rentals late and how many times they have done so. This can alsp help management decide if they need to start giving them reminders or adding penalties to their return policy.
 
 
 ## Database Information:
