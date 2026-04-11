@@ -55,7 +55,8 @@ For this case, we were tasked with modeling and creating a relational database f
 
 ## Ten Queries:
 
-**Insert Screenshot of matrix here.**
+<img width="492" height="363" alt="image" src="https://github.com/user-attachments/assets/d188fc19-c758-4882-92a9-5b92e5e5ee87" />
+
 
 1. The condition of equipment items are rated on a scale from 1-4, with 1 being poor and 4 being great. Which equipment items are in poor condition?
 
