@@ -61,6 +61,7 @@ QUERY MATRIX:
 
 
 
+
 THE QUERIES:
 1. The condition of equipment items are rated on a scale from 1-4, with 1 being poor and 4 being great. Which equipment items are in poor condition?
 
