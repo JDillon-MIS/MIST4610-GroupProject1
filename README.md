@@ -56,6 +56,7 @@ For this case, we were tasked with modeling and creating a relational database f
 ## Ten Queries:
 
 QUERY MATRIX:
+
 <img width="492" height="363" alt="image" src="https://github.com/user-attachments/assets/d188fc19-c758-4882-92a9-5b92e5e5ee87" />
 
 
