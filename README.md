@@ -57,7 +57,7 @@ For this case, we were tasked with modeling and creating a relational database f
 
 ### Query Matrix:
 
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/d188fc19-c758-4882-92a9-5b92e5e5ee87" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/d188fc19-c758-4882-92a9-5b92e5e5ee87" />
 
 
 
@@ -107,7 +107,7 @@ Query 7 helps management identify which trip types are thier most profitable so 
 
 8. Which staff members are acting as assistant staff for three or more trips?
 
-<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/49f8c2dd-f6b4-48a8-97d0-9953d683399f" />
+<img width="600" height="750" alt="image" src="https://github.com/user-attachments/assets/49f8c2dd-f6b4-48a8-97d0-9953d683399f" />
 
 Query 8 helps management identify candidates that are due for promotion from staff assistant to staff leader after the trips have concluded.
 
@@ -119,7 +119,7 @@ Query 9 helps management find unusually generous deals so that they can determin
 
 10. Which customers have returned their equipment rentals late at least once?
 
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/344a4503-5d70-4e57-8823-64e555f3addc" />
+<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/344a4503-5d70-4e57-8823-64e555f3addc" />
 
 Query 10 helps management identify which of their customers are returning rentals late and how many times they have done so. This can alsp help management decide if they need to start giving them reminders or adding penalties to their return policy.
 
