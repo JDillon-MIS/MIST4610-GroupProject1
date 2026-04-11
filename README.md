@@ -55,14 +55,14 @@ For this case, we were tasked with modeling and creating a relational database f
 
 ## Ten Queries:
 
-QUERY MATRIX:
+### Query Matrix:
 
-<img width="492" height="363" alt="image" src="https://github.com/user-attachments/assets/d188fc19-c758-4882-92a9-5b92e5e5ee87" />
-
-
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/d188fc19-c758-4882-92a9-5b92e5e5ee87" />
 
 
-THE QUERIES:
+
+
+### The Queries:
 1. The condition of equipment items are rated on a scale from 1-4, with 1 being poor and 4 being great. Which equipment items are in poor condition?
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f7ae94c5-489f-4855-b258-22716b23ef31" />
