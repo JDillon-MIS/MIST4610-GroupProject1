@@ -17,12 +17,11 @@ For this case, we were tasked with modeling and creating a relational database f
 ## Data Model:
 
 <img width="1515" height="1025" alt="image" src="https://github.com/user-attachments/assets/0c36c922-2df9-41d0-afec-af689506a093" />
+<br/>
 
-<br/> Explanation of Entity Relationship:
+### Explanation of Entity Relationships:
 
 <img width="1987" height="1705" alt="image" src="https://github.com/user-attachments/assets/991d9983-3353-44f4-91fc-44848201cb0e" />
-
-
 
 
 ## Data Dictionary:
